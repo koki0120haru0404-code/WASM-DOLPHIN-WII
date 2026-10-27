@@ -1,1 +1,6 @@
 # WASM-DOLPHIN-WII
+WASM-DOLPHIN-WII
+WASM-DOLPHIN-WIIはWASM-DOLPHINをベースに作成されました。
+
+## 使用する方法
+簡単です。RELEASESのWASM-DOLPHIN-WII.zipファイルを展開しプッシュするだけです。
